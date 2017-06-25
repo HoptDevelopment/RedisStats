@@ -1,0 +1,6 @@
+name: RedisStats
+main: io.hopt.RedisStats
+version: 1.0
+author: Hopt
+commands:
+  stats:
